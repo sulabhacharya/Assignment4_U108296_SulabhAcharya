@@ -1,6 +1,6 @@
 # Assignment 4: Jupyter Notebooks and Git
 
-## In this assignment, I will use Git for version control and create a simple Jupyter Notebook.
+## In this assignment, I demonstrate the use of Git for version control and the creation of a simple Jupyter Notebook.
 
 ### Create a Git repository on GitHub.
 
