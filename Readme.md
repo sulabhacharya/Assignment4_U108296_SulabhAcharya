@@ -6,3 +6,4 @@
 
 ![Description](mountain.jpg)
 
+## What fire does not destroy, it hardens” ―  Oscar Wilde
